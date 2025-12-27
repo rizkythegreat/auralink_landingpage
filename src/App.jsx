@@ -1,6 +1,7 @@
 import './App.css';
 import BankingScaleHero from './components/BankingScaleHero';
 import CaseStudiesCarousel from './components/CaseStudiesCarousel';
+import IntegrationCarousel from './components/IntegrationCarousel';
 import Layout from './components/layout/Layout';
 import ProductTeaser from './components/ProductTeaser';
 
@@ -11,6 +12,7 @@ function App() {
         <ProductTeaser />
         <BankingScaleHero />
         <CaseStudiesCarousel />
+        <IntegrationCarousel />
       </Layout>
     </>
   );

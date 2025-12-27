@@ -82,3 +82,105 @@ export const stats = [
     delay: 0.6
   }
 ];
+
+export const defaultTopRowApps = [
+  {
+    name: 'Integration 1',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-389-Hc8XBOUI8vkVmIwWQZs33kxMF353Xj.png'
+  },
+  {
+    name: 'Integration 2',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-407-eyikTTM6ccO0f4I7ZmNk5LpFI4EKOG.png'
+  },
+  {
+    name: 'Integration 3',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-379-5hDaxwIw4LzjwXzWuorEXi7ESrGYl1.png'
+  },
+  {
+    name: 'Integration 4',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-374-bp0RaoVnQI1JMqR9fjessWI8v33kLV.png'
+  },
+  {
+    name: 'Integration 5',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-381-eKw7vkCp2Wq9hivZJaN1ERJdjCqR0d.png'
+  },
+  {
+    name: 'Integration 6',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-401-F6mjMLGEZt4HAohKA889Z8Gf5fMzIw.png'
+  },
+  {
+    name: 'Integration 7',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-403-HnBAGFYWgxxMGrH2PI45UorQOsQHFo.png'
+  },
+  {
+    name: 'Integration 1',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-389-Hc8XBOUI8vkVmIwWQZs33kxMF353Xj.png'
+  },
+  {
+    name: 'Integration 2',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-407-eyikTTM6ccO0f4I7ZmNk5LpFI4EKOG.png'
+  },
+  {
+    name: 'Integration 3',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-379-5hDaxwIw4LzjwXzWuorEXi7ESrGYl1.png'
+  },
+  {
+    name: 'Integration 4',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-374-bp0RaoVnQI1JMqR9fjessWI8v33kLV.png'
+  },
+  {
+    name: 'Integration 5',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-381-eKw7vkCp2Wq9hivZJaN1ERJdjCqR0d.png'
+  }
+];
+
+export const defaultBottomRowApps = [
+  {
+    name: 'Integration 6',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-401-F6mjMLGEZt4HAohKA889Z8Gf5fMzIw.png'
+  },
+  {
+    name: 'Integration 7',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-403-HnBAGFYWgxxMGrH2PI45UorQOsQHFo.png'
+  },
+  {
+    name: 'Integration 1',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-389-Hc8XBOUI8vkVmIwWQZs33kxMF353Xj.png'
+  },
+  {
+    name: 'Integration 2',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-407-eyikTTM6ccO0f4I7ZmNk5LpFI4EKOG.png'
+  },
+  {
+    name: 'Integration 3',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-379-5hDaxwIw4LzjwXzWuorEXi7ESrGYl1.png'
+  },
+  {
+    name: 'Integration 4',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-374-bp0RaoVnQI1JMqR9fjessWI8v33kLV.png'
+  },
+  {
+    name: 'Integration 5',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-381-eKw7vkCp2Wq9hivZJaN1ERJdjCqR0d.png'
+  },
+  {
+    name: 'Integration 6',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-401-F6mjMLGEZt4HAohKA889Z8Gf5fMzIw.png'
+  },
+  {
+    name: 'Integration 7',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-403-HnBAGFYWgxxMGrH2PI45UorQOsQHFo.png'
+  },
+  {
+    name: 'Integration 1',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-389-Hc8XBOUI8vkVmIwWQZs33kxMF353Xj.png'
+  },
+  {
+    name: 'Integration 2',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-407-eyikTTM6ccO0f4I7ZmNk5LpFI4EKOG.png'
+  },
+  {
+    name: 'Integration 3',
+    logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-379-5hDaxwIw4LzjwXzWuorEXi7ESrGYl1.png'
+  }
+];
