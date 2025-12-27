@@ -1,4 +1,5 @@
 import './App.css';
+import BankingScaleHero from './components/BankingScaleHero';
 import Layout from './components/layout/Layout';
 import ProductTeaser from './components/ProductTeaser';
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Layout>
         <ProductTeaser />
+        <BankingScaleHero />
       </Layout>
     </>
   );

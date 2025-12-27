@@ -59,3 +59,26 @@ export const navigationLinks = [
     href: '#resources'
   }
 ];
+
+export const stats = [
+  {
+    value: '1B+',
+    description: 'Messages analyzed\ndaily',
+    delay: 0
+  },
+  {
+    value: '99.9%',
+    description: 'Accuracy in tone\ndetection',
+    delay: 0.2
+  },
+  {
+    value: '50+',
+    description: 'Languages supported\nworldwide',
+    delay: 0.4
+  },
+  {
+    value: '1000+',
+    description: 'Organizations using\nAuralink',
+    delay: 0.6
+  }
+];
