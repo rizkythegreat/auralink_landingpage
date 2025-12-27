@@ -3,6 +3,7 @@ import BankingScaleHero from './components/BankingScaleHero';
 import CaseStudiesCarousel from './components/CaseStudiesCarousel';
 import IntegrationCarousel from './components/IntegrationCarousel';
 import Layout from './components/layout/Layout';
+import PricingSection from './components/PricingSection';
 import ProductTeaser from './components/ProductTeaser';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
         <BankingScaleHero />
         <CaseStudiesCarousel />
         <IntegrationCarousel />
+        <PricingSection />
       </Layout>
     </>
   );

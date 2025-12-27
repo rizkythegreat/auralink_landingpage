@@ -184,3 +184,39 @@ export const defaultBottomRowApps = [
     logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logoipsum-379-5hDaxwIw4LzjwXzWuorEXi7ESrGYl1.png'
   }
 ];
+
+export const plans = [
+  {
+    name: 'Starter',
+    price: { monthly: 29, yearly: 290 },
+    level: 'starter'
+  },
+  {
+    name: 'Pro',
+    price: { monthly: 99, yearly: 990 },
+    level: 'pro',
+    popular: true
+  },
+  {
+    name: 'Enterprise',
+    price: { monthly: 299, yearly: 2990 },
+    level: 'enterprise'
+  }
+];
+
+export const features = [
+  { name: 'Real-time conversation analysis', included: 'starter' },
+  { name: 'Up to 10,000 messages/month', included: 'starter' },
+  { name: 'Basic sentiment detection', included: 'starter' },
+  { name: 'Email support', included: 'starter' },
+  { name: 'Advanced emotional intelligence', included: 'pro' },
+  { name: 'Up to 100,000 messages/month', included: 'pro' },
+  { name: 'Multi-language support (50+ languages)', included: 'pro' },
+  { name: 'Priority support', included: 'pro' },
+  { name: 'Custom AI model training', included: 'enterprise' },
+  { name: 'Unlimited messages', included: 'enterprise' },
+  { name: 'Dedicated account manager', included: 'enterprise' },
+  { name: '24/7 phone support', included: 'enterprise' },
+  { name: 'API access', included: 'all' },
+  { name: 'Team collaboration tools', included: 'all' }
+];
