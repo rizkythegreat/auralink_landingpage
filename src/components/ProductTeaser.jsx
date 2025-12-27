@@ -17,7 +17,7 @@ function ProductTeaser(props) {
     secondaryButtonHref = ''
   } = props;
   return (
-    <section className="w-full px-8 pt-32 pb-16">
+    <section id="home" className="w-full px-8 pt-32 pb-16">
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-12 gap-2">
           <motion.div

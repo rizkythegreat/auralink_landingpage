@@ -51,8 +51,8 @@ export const navigationLinks = [
     href: '#pricing'
   },
   {
-    name: 'Solutions',
-    href: '#solutions'
+    name: 'Testimonials',
+    href: '#testimonials'
   },
   {
     name: 'Resources',

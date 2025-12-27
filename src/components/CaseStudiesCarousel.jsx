@@ -724,6 +724,7 @@ function CaseStudiesCarousel() {
 
   return (
     <div
+      id="testimonials"
       className="w-full min-h-screen bg-linear-to-br from-background via-background to-muted/20 flex items-center justify-center py-24 px-8"
       onMouseEnter={() => setIsAutoPlaying(false)}
       onMouseLeave={() => setIsAutoPlaying(true)}>

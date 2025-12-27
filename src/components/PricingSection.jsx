@@ -15,7 +15,7 @@ function PricingSection() {
   const [isYearly, setIsYearly] = useState(false);
   const [selectedPlan, setSelectedPlan] = useState('pro');
   return (
-    <section className="py-24 bg-background">
+    <section id="pricing" className="py-24 bg-background">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-16">
@@ -100,7 +100,7 @@ function PricingSection() {
         </div>
 
         {/* Features Table */}
-        <div className="border border-border rounded-2xl overflow-hidden bg-card">
+        <div id="features" className="border border-border rounded-2xl overflow-hidden bg-card">
           <div className="overflow-x-auto">
             <div className="min-w-3xl">
               {/* Table Header */}

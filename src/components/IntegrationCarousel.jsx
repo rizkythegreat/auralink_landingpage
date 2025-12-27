@@ -46,7 +46,7 @@ function IntegrationCarousel({
     };
   }, []);
   return (
-    <div className="w-full py-24 bg-white">
+    <div id="resources" className="w-full py-24 bg-white">
       <div className="max-w-170 mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 30 }}

@@ -76,7 +76,7 @@ const Header = memo(function Header() {
           <div className="hidden md:block">
             <button
               onClick={() => handleLinkClick('#contact')}
-              className="bg-[#156d95] text-white px-4.5 rounded-full text-base font-semibold hover:bg-[#156d95]/90 transition-all duration-200 hover:rounded-2xl shadow-sm hover:shadow-md whitespace-nowrap leading-4 py-3.75"
+              className="bg-[#156d95] text-white px-4.5 rounded-full text-base font-semibold hover:bg-[#156d95]/90 transition-all duration-200 shadow-sm hover:shadow-md whitespace-nowrap leading-4 py-3.75"
               style={{
                 fontFamily: 'Plus Jakarta Sans, sans-serif'
               }}>
