@@ -1,5 +1,5 @@
 import React, { useEffect, useState, memo } from 'react';
-import { navigationLinks } from '../../utils/constants';
+import { navigationLinks } from '../../utils/constants.js';
 import { Menu, X } from 'lucide-react';
 import { AnimatePresence, motion } from 'framer-motion';
 

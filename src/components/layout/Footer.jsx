@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { defaultSections } from '../../utils/constants';
+import { defaultSections } from '../../utils/constants.js';
 import { Github, Linkedin, Mail, Twitter } from 'lucide-react';
 
 function Footer({
